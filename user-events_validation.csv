@@ -1,0 +1,5 @@
+event3,10:05,impression,event1,user1,adv1,deviceId1,10
+event4,10:08,impression,event1,user1,adv1,deviceId1,10
+event5,9:00,click,event1,user1,adv1,deviceId1,10
+event6,10:30,click,event1,user1,adv1,deviceId1,10
+event7,10:05,impression,event1,user2,adv1,deviceId1,10
